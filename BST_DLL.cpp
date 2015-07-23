@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream.h>
 #include<stdlib.h>
 #define BUFSIZE 1024
 #define NALLOC(n,type) ((type*)malloc(n*sizeof(type)))
